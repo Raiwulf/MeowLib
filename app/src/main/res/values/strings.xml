@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeowLib</string>
+    <string name="meow">Meow!</string>
+    <string name="welcome">Hi! 😹</string>
+    <string name="info">Welcome to MeowLib \n\nYou can list, search, research and favorite any cat breeds here!</string>
+    <string name="favs">Favs</string>
+</resources>
