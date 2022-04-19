@@ -31,6 +31,7 @@
         android:id="@+id/catDescDetails"
         android:layout_width="411dp"
         android:layout_height="195dp"
+        android:paddingTop="16dp"
         android:paddingStart="16dp"
         android:paddingEnd="16dp"
         android:text="TextView"
@@ -43,9 +44,8 @@
         android:id="@+id/toggleFavDetails"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="4dp"
-        android:textOn="🌟"
         android:textOff="★"
+        android:textOn="🌟"
         android:textSize="32sp"
         app:layout_constraintBottom_toTopOf="@+id/catDescDetails"
         app:layout_constraintEnd_toEndOf="parent" />
