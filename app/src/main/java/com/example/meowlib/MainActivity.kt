@@ -1,5 +1,4 @@
 package com.example.meowlib
-//api key= ab487138-2be7-4e68-a71b-2f8f731ad27c
 
 import android.content.Context
 import android.content.Intent
